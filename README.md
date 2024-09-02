@@ -17,3 +17,6 @@ path will be made green while shutting down the traffic signals of the remaining
 and quick passage of the ambulance through the traffic intersection. Statistical analysis of this work
 shows 2/3rd of the waiting time can be reduced if the country can adopt to this system. This prototype will
 surely add a positive note in saving the lives of critical patients.
+
+
+Link - https://ieeexplore.ieee.org/document/10434545
